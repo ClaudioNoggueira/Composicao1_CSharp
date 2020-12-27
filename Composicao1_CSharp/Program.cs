@@ -2,7 +2,7 @@
 using Entities.Enums;
 using System;
 
-namespace Enum1_CSharp {
+namespace Composicao1_CSharp {
     class Program {
         static void Main(string[] args) {
             string data = DateTime.Now.ToLongDateString();
